@@ -4,6 +4,7 @@
 
 A simple **Command Line Interface (CLI)** task manager built with **Python** and **Typer**.
 This application allows you to add, update, delete, and manage tasks stored in a JSON file.
+https://roadmap.sh/projects/task-tracker
 
 ---
 
